@@ -1,0 +1,7 @@
+This project contains different implementations of Tic Tac Toe
+
+First implementation is a rudimentary 2 player
+
+Second implementation is player 1 vs system
+
+Third implementation is 2 player over a network
