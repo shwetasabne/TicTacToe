@@ -8,7 +8,8 @@ public class TicTacToe {
 	public static void main(String[] args) {
 		
 		//Create the UI
-		UITicTacToe ui = new UITicTacToe(3,3);
+		//UITicTacToe ui = new UITicTacToe(3,3);
+		UITicTacToeSystem ui = new UITicTacToeSystem(3,3);
 
 		System.out.println("Waiting for user to begin...");
 		
